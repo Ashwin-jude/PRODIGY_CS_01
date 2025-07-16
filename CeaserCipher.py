@@ -13,5 +13,6 @@ def decrypt(a,b):
     return encrypt(a,-b)
 d=encrypt(a,b)
 print("encrypted text",d)
-e=decrypt(a,b)
+e=decrypt(d,b)
 print("decrypted text",e)
+ 
