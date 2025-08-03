@@ -56,8 +56,9 @@ cd caesar_cipher
 
 ### 2. Run the script
 
-bash
+```bash
 python caesar_cipher.py
+```
 
 
 ### 3. Follow the prompts
